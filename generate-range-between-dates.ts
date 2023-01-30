@@ -13,4 +13,4 @@ export function generateRangeDatesFromYearStart() {
   }
 
   return dateRange
-}
+} 
