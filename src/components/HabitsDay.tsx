@@ -36,4 +36,4 @@ export function HabitDay({amountOfHabits = 0, amountCompleted = 0, date,  ...res
         />
 
     )
-}
+} 
