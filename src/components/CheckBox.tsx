@@ -38,4 +38,4 @@ export function CheckBox({title, checked = false, ...rest} : Props){
             </Text>
         </TouchableOpacity>
     )
-}
+} 
