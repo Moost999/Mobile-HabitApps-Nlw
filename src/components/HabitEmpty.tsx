@@ -16,4 +16,4 @@ export function HabitEmpty(){
             </Text>
         </Text>
     )
-}
+} 
