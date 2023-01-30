@@ -7,5 +7,5 @@ export declare global {
                 date: string;
             }
         }
-    }
+    } 
 }
