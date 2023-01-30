@@ -26,4 +26,4 @@ export function AppRoutes(){
 
 
     </Navigator>
-)}
+)} 
